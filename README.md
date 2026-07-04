@@ -26,9 +26,9 @@ HousePricePrediction/
 
 ├── models/
 
-├── submission/
+├── submissions/
 
-│ └── submission.csv
+│ └── submissions.csv
 
 └── README.md
 
@@ -80,7 +80,7 @@ HousePricePrediction/
 
 The final prediction file is generated as:
 
-submission/submission.csv
+submissions/submissions.csv
 
 This file can be uploaded directly to Kaggle.
 
