@@ -18,7 +18,7 @@ HousePricePrediction/
 
 │ ├── test.csv
 
-│ └── sample_submission.csv
+│ └── sample_submissions.csv
 
 ├── notebooks/
 
